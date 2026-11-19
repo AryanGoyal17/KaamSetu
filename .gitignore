@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Data and media
+*.wav
+*.mp3
+*.mp4
+uploads/
+data/raw/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
